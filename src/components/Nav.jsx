@@ -7,5 +7,5 @@ export default function Nav() {
             <li><a href="#">Gear</a></li>
             <li><a href="#">Forum</a></li>
         </ul>
-    )
+    );
 }
